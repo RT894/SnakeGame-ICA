@@ -1,0 +1,13 @@
+﻿  AISnake.cpp
+  Collectables.cpp
+  Game.cpp
+F:\Uni\Games Dev with C++\Snake ICA\FINAL ICA\Snake ICA\SnakeGame\SnakeGame\SnakeGame\Game.cpp(10,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\Uni\Games Dev with C++\Snake ICA\FINAL ICA\Snake ICA\SnakeGame\SnakeGame\SnakeGame\Game.cpp(11,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\Uni\Games Dev with C++\Snake ICA\FINAL ICA\Snake ICA\SnakeGame\SnakeGame\SnakeGame\Game.cpp(89,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\Uni\Games Dev with C++\Snake ICA\FINAL ICA\Snake ICA\SnakeGame\SnakeGame\SnakeGame\Game.cpp(417,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  PlayerSnake.cpp
+  Snake.cpp
+  Generating Code...
+F:\Uni\Games Dev with C++\Snake ICA\FINAL ICA\Snake ICA\SnakeGame\SnakeGame\SnakeGame\Game.cpp(38): warning C4715: 'Game::PlaceIsTaken': not all control paths return a value
+  SnakeGame.vcxproj -> F:\Uni\Games Dev with C++\Snake ICA\FINAL ICA\Snake ICA\SnakeGame\SnakeGame\x64\Debug\SnakeGame.exe
